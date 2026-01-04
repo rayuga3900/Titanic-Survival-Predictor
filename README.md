@@ -1,4 +1,8 @@
 # Titanic Survival Prediction App
+<div>
+<img width="1677" height="872" alt="Screenshot 2026-01-04 144241" src="https://github.com/user-attachments/assets/3fca7e84-35f3-499d-956f-1cd6bbabdedb" />
+<img width="1687" height="819" alt="Screenshot 2026-01-04 144307" src="https://github.com/user-attachments/assets/bcd4e49c-3d99-4472-a0cd-8a4e03d06af3" />
+</div>
 
 This project predicts whether a passenger survived the Titanic disaster using demographic and travel-related information.  
 It includes a machine learning pipeline, a Streamlit web app, and a Docker setup for easy deployment.
